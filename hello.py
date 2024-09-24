@@ -33,7 +33,7 @@ if 5 > 2:
     print(z)
     
     #tuple in python and destructuring of the tuple
-    
+     
     fruits = ['Apple','Mango','Orange']
     first, second, third = fruits
     print(first)
