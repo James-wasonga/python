@@ -14,7 +14,6 @@ z = len(cars)
 print(z)
 
 #for in loop in array
-
 #poping an element from an array
 cars.pop(1)
 
