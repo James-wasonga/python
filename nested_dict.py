@@ -40,3 +40,4 @@ myfamily = {
     "person3" : person3
 }
     
+print(myfamily["person1"])
