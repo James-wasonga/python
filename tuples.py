@@ -34,3 +34,4 @@ mylist = list(thistuple)
 mylist.remove("cherry")
 thistuple = tuple(mylist)
 print(thistuple)
+
