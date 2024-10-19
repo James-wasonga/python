@@ -6,3 +6,4 @@ arr2 = np.array([4,5,6])
 
 arr = np.concatenate((arr1, arr2))
 print(arr)
+
